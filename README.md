@@ -1,4 +1,4 @@
-# 🕵️Deteção de Fraudes em Cartões de Crédito
+# Deteção de Fraudes em Cartões de Crédito
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg)](https://scikit-learn.org/)
